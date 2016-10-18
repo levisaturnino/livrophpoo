@@ -1,0 +1,2 @@
+2016-10-18 03:35:02::SELECT * FROM produto WHERE (estoque > 10 AND origem = 'N')
+2016-10-18 03:35:02::SELECT count(*) FROM produto WHERE (estoque > 10 AND origem = 'N')

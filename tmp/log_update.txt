@@ -1,0 +1,4 @@
+2016-10-16 23:49:04::Alterando um produto
+2016-10-16 23:49:04::SELECT * FROM produto WHERE id=2
+2016-10-16 23:49:04::SELECT * FROM produto WHERE id=2
+2016-10-16 23:49:04::UPDATE produto SET descricao = 'Vindo Importado Tinto Carmenere',estoque = 20,preco_custo = '18.0',preco_venda = '29.0',codigo_barras = '734550345423423',data_cadastro = '2016-10-16',origem = 'I' WHERE id=2

@@ -1,0 +1,4 @@
+2016-10-16 23:52:21::Clonando um produto
+2016-10-16 23:52:21::SELECT * FROM produto WHERE id=2
+2016-10-16 23:52:21::SELECT max(id) FROM produto
+2016-10-16 23:52:21::INSERT INTO produto (descricao,estoque,preco_custo,preco_venda,codigo_barras,data_cadastro,origem,id) values ('Vindo Importado Tinto Carmenere (clonado)','20.0','18.0','29.0','734550345423423','2016-10-16','I',69)

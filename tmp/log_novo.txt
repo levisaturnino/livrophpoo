@@ -1,0 +1,2 @@
+2016-10-16 23:45:33::Buscando um produto
+2016-10-16 23:45:33::SELECT * FROM produto WHERE id=2

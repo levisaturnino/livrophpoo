@@ -1,0 +1,2 @@
+2016-10-17 00:07:42::Protegendo o acesso a um produto
+2016-10-17 00:07:42::SELECT * FROM produto WHERE id=2

@@ -1,0 +1,3 @@
+2016-10-16 23:55:36::Removendo um produto
+2016-10-16 23:55:36::SELECT * FROM produto WHERE id=8
+2016-10-16 23:55:36::DELETE FROM produto WHERE id=8

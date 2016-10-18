@@ -1,0 +1,3 @@
+2016-10-16 23:13:00::Inserindo produto novo
+2016-10-16 23:13:00::INSERT INTO produto (id, descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES('62', 'Vindo Brasileiro Tinto Merlot','10','12','18','13523453234234','2016-10-16','N')
+2016-10-16 23:13:00::INSERT INTO produto (id, descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES('63', 'Vindo Importado Tinto Carmenere','10','18','29','734550345423423','2016-10-16','I')
